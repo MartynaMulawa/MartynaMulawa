@@ -6,6 +6,6 @@ Jestem studentką 1 roku ISI na agh
 MOJA STRONA: MartynaMulawa.github.io
 
 
-ARTUKUŁ:https://paperswithcode.com/paper/on-the-evolution-of-hateful-memes-by-means-of
+ARTUKUŁ: https://paperswithcode.com/paper/3dhumangan-towards-photo-realistic-3d-aware
 
 REPOZYTORIUM: https://github.com/MartynaMulawa/Zestaw-6
