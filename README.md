@@ -7,4 +7,5 @@ MOJA STRONA: MartynaMulawa.github.io
 
 
 ARTUKUŁ:https://paperswithcode.com/paper/on-the-evolution-of-hateful-memes-by-means-of
+
 REPOZYTORIUM: https://github.com/MartynaMulawa/Zestaw-6-artykul
